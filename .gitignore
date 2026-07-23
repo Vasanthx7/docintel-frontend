@@ -1,0 +1,18 @@
+# Node / Next
+node_modules/
+.next/
+out/
+npm-debug.log*
+
+# Build info
+tsconfig.tsbuildinfo
+next-env.d.ts
+
+# Env
+.env
+.env.local
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
